@@ -1,0 +1,195 @@
+
+
+.heddermanu {
+    background: #101446;
+    padding: 14px 0px;
+  }
+.logobar{
+
+}
+
+.logobar img {
+    width: 88px;
+}}
+
+.praimarymanu{
+
+}
+.praimarymanu ul{
+
+  text-align: right;
+}
+
+.praimarymanu ul li{
+
+  display: inline-block;
+}
+
+.praimarymanu ul li a {
+    display: inline-block;
+    text-decoration: none;
+    padding: 9px 19px;
+    font-size: 15px;
+    color: white;
+}
+
+
+/* bannar section */
+
+.bannarsection {
+    background-image: url(https://i.postimg.cc/t4z7TLFx/intro-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 200px 0px;
+   
+}
+.bannarcontent {
+    color: white;
+    padding-top: 120px;
+}
+
+.bannarcontent h2{
+
+    font-size: 25px;
+}
+
+.bannarcontent p {
+    width: 700px;
+    margin: auto;
+    padding: 24px 0px;
+    font-size: 14px;
+}
+.bannarcontent a{
+    background: #337ab7;
+    color: white;
+    font-size: 16px;
+
+}
+
+/* team section */
+.teamhedder{
+    padding: 65px 0px 30px 0px;
+}
+
+
+.teamsection {
+    background: #bac1f3;
+    padding-bottom: 70px;
+}
+
+teamcontent {
+    color: #4e4e4e;
+}
+
+.teamcontent img{
+
+}
+
+.teamcontent h4 {
+    font-size: 17px;
+    padding: 8px 0px;
+    margin-bottom: 0px;
+}
+.teamcontent p{
+
+    color: #4e4e4e;
+    width: 197px;
+    margin: auto;
+    font-size: 15px;
+
+}
+
+.teamcontent a{
+    background: #337ab7;
+    color: white;
+    margin-top: 12px;
+    font-size: 14px;
+}
+
+/* about section */
+
+
+.aboutsection{
+
+    background: #c2d4ea;
+    padding: 80px 0px;
+}
+
+.mainrow{
+    padding: 30px 0px;
+}
+
+.imagesection{
+
+    text-align: center;
+
+}
+
+.imagesection img{
+
+}
+
+.contactabout{
+    margin-left: -82px;
+
+}
+
+.contactabout ul{
+
+}
+
+.contactabout ul li {
+
+    list-style: none;
+    padding: 5px 0px;
+    font-size: 15px;
+
+}
+
+.margandetels {
+    margin-top: 21px;
+font-size: 15px;
+margin-left: 67px;
+}
+
+.contactme{
+
+}
+
+.contactme h4{
+
+}
+
+.contactme p{
+    font-size: 15px;
+
+
+}
+
+.borotext p{
+    
+    font-size: 19px;
+
+}
+
+.submitbtn{
+    background-color: #3498db;
+    color: white;
+}
+
+/* footer section */
+
+.footersection{
+    color: white;
+}
+
+.fotter1 p{
+    margin-bottom: 0px;
+
+}
+
+.fotter2 p{
+    margin-bottom: 0px;
+
+}
